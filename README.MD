@@ -41,4 +41,4 @@ Gemini：
 
 ## 👨‍💻 Expert
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [ValeriaSantosCaires](https://github.com/ValeriaSantosCaires/prompts-recipe-to-create-a-ebook)
