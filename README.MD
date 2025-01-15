@@ -23,7 +23,7 @@ ChatGPT：
 | conteúdo | escreva um ebook sobre como criar uma reserva de emergencia, para um publico iniciante em investimentos, com linguagem simples e objetiva, com topicos e exemplos práticos para o dia a dia  |
 
 
-Gemini： 
+Gemini：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
