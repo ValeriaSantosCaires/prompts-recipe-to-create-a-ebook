@@ -42,3 +42,4 @@ Gemini：
 ## 👨‍💻 Expert
 
 ⌨️ com 💜 por [ValeriaSantosCaires](https://github.com/ValeriaSantosCaires/prompts-recipe-to-create-a-ebook)
+(https://github.com/ValeriaSantosCaires)
